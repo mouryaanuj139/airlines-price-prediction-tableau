@@ -5,13 +5,14 @@ An interactive Tableau dashboard analyzing **Indian domestic airline pricing pat
 ---
 
 ## 🔗 Live Dashboard
-👉 [View on Tableau Public](https://public.tableau.com/workbooks/AirlinesPricePredictionAnalysis_17795418257320)
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/anuj.mourya4186/viz/AirlinesPricePredictionAnalysis_17795418257320/Dashboard1)
 
 ---
 
 ## 📸 Dashboard Preview
 
-> *(Add screenshots of your dashboard here — see setup instructions below)*
+
+<img width="1290" height="530" alt="Dashboard 1" src="https://github.com/user-attachments/assets/387dbd7d-2305-48a3-a697-a01e93036c40" />
 
 ---
 
