@@ -100,8 +100,7 @@ The dashboard includes 4 dynamic filters that update all visuals in real time:
 ├── 📊 Airlines_Price_Prediction_Analysis.twbx   ← Tableau packaged workbook
 ├── 📄 README.md                                  ← You are here
 └── 📁 screenshots/                               ← dashboard screenshots here
-    ├── dashboard_overview.png
-    └── price_by_airline.png
+    ├── Dashboard 1.png
 ```
 
 ---
